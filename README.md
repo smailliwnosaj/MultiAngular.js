@@ -1,3 +1,3 @@
 # MultiAngular.js
 
-Coming soon!!!
+Coming December, 2016!
